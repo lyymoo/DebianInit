@@ -1,3 +1,7 @@
+这是我的debian Notebook
+==========
+
+
 DebianInit
 ==========
 
