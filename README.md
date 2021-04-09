@@ -27,7 +27,7 @@ cd DebianInit
 ```
 # Install the required dependencies
 sudo apt install git curl python3-pip exuberant-ctags ack-grep
-sudo pip3 install pynvim flake8 pylint isort
+sudo pip3 install pynvim flake8 pylint isort jedi
 # Download the config file and save it as ~/.vimrc (super important to use that exact name).
 # Open Vim and it will continue the installation by itself. Wait for it to finish... and done! You now have your new shiny powerful Vim :) 
 ```
